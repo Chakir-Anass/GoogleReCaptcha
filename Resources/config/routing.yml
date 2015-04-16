@@ -1,0 +1,3 @@
+google_re_captcha_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: GoogleReCaptchaBundle:Default:index }
